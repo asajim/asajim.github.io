@@ -7,53 +7,49 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Computer Engineering, Delft University of Technology, The Netherlands. 2018 (expected).
+* B.Eng. in Informatics Engineering, Bandung Institute of Technology, Indonesia. 2013.
+* Senior High School. Taruna Nusantara, Magelang, Indonesia. 2009.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July - Sept 2012: Software Developer (Internship)
+  * Bukopin Bank
+  * Developing Bukopin Bank’s core banking software.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013 - 2016: Software Developer
+  * Azeco Inc.
+  * Developing software (design, implementation and testing), focusing in air eld software. We built software for Acams AS, a Norwegian company specializing in integrated Airport
 
-Publications
+Programming Skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Java (Back-end Development)
+* C/C++ (Embedded System)
+
+Project Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2013: Datalink Server
+  * Building an application that handles the communication between airports and aircrafts on flight and airport conditions.
+  * Platform & Skill: J2EE, MySQL, Google Web Toolkit
+* 2014: Acams Runway Incursion System
+  * Building an application to monitor vehicle positions on the airport runway.
+  * Platform & Skill: J2EE, MySQL, Android
+* 2014: Acams Timesheet
+  * Building a web application to monitor employ- ees' working daily progress on every project.
+  * Platform & Skill: J2EE, MySQL, Google Web Toolkit
+* 2014-2016: Acams Air eld Lighting Control System
+  * Building an application to monitor and control every lighting device in the air eld of airports. 4 airports were included in this project.
+  * Platform & Skill: J2EE, MySQL , RMI, OPC, PLC, Modbus, SNMP
+* 2015-2016: Acams i6
+  * Developing integrated applications from Acams' smaller modules and older applications.
+  * Platform & Skill: J2EE, MySQL , RMI, OPC, PLC, Modbus, SNMP
+
+
+Language Proficiency
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Bahasa Indonesia (native)
+* English (IELTS: 7.0)
