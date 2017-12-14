@@ -13,7 +13,7 @@ name                     : &name "Ade Setyawan Sajim"
 description              : &description "A mountain lover, stuck in front of computer"
 url                      : https://asajim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "asajim/asajim.github.io"
+repository               : "asajim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
