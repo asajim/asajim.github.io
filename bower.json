@@ -1,0 +1,30 @@
+{
+  "name": "social-feed-example",
+  "version": "0.0.1",
+  "homepage": "http://pavelk2.github.io/social-feed-example/",
+  "authors": [
+    {
+      "name": "Pavel Kucherbaev",
+      "email": "pavel@kucherbaev.com",
+      "homepage": "http://kucherbaev.com"
+    }
+  ],
+  "keywords":[
+    "Twitter",
+    "Facebook",
+    "Instagram",
+    "Google+",
+    "Vkontakte",
+    "Pinterest",
+    "social",
+    "feed"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "social-feed": "~0.1.2"
+  }
+}

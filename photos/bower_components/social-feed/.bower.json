@@ -43,7 +43,6 @@
     "commit": "5b79bb87efe17e139c3844730571a59b11394914"
   },
   "_source": "https://github.com/pavelk2/social-feed.git",
-  "_target": "^0.1.2",
-  "_originalSource": "social-feed",
-  "_direct": true
+  "_target": "~0.1.2",
+  "_originalSource": "social-feed"
 }
