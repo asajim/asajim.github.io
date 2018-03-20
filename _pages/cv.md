@@ -46,10 +46,13 @@ Project Experience
   * Platform & Skill: J2EE, MySQL, Google Web Toolkit
 * 2014-2016: Acams Air eld Lighting Control System
   * Building an application to monitor and control every lighting device in the air eld of airports. 4 airports were included in this project.
-  * Platform & Skill: J2EE, MySQL , RMI, OPC, PLC, Modbus, SNMP
+  * Platform & Skill: J2EE, MySQL, RMI, OPC, PLC, Modbus, SNMP
 * 2015-2016: Acams i6
   * Developing integrated applications from Acams' smaller modules and older applications.
-  * Platform & Skill: J2EE, MySQL , RMI, OPC, PLC, Modbus, SNMP
+  * Platform & Skill: J2EE, MySQL, RMI, OPC, PLC, Modbus, SNMP
+* Dec 2017: Hackeye (Hackathon Project)
+  * Developing an app for ensuring there is no equipment left inside a patient body during a surgery, done by tracking the process of taking and returning of tools using camera.
+  * This project is done during Hacking Health 1-3 December 2017 at Berlin, Germany.
 
 
 Language Proficiency
