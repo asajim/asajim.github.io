@@ -11,25 +11,27 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Engineering, Delft University of Technology, The Netherlands. 2018 (expected).
-* B.Eng. in Informatics Engineering, Bandung Institute of Technology, Indonesia. 2013.
-* Senior High School. Taruna Nusantara, Magelang, Indonesia. 2009.
+* M.S. in Computer Engineering, Delft University of Technology, The Netherlands. 2016-2018 (expected).
+* B.Eng. in Informatics Engineering, Bandung Institute of Technology, Indonesia. 2009-2013.
+* Senior High School. Taruna Nusantara, Magelang, Indonesia. 2006-2009.
 
 Work experience
 ======
 * Software Developer (Internship) at [Bukopin Bank](http://www.bukopin.co.id) : July - September 2012
-  * Developing Bukopin Bank’s core banking software.
+  * Migrating Bukopin Bank’s core banking software from COBOL to Java
 
 * Software Developer at [ACAMS](http://www.acams.com) : September 2013 - July 2016
   * Developing an integrated Airport Tower Solutions.
   * Design the software according to client request and airfield rules
-  * Implement the software, mostly on back-end side, using Java Test the software with the airport equipment according to the requirements
+  * Implement the software, mostly on back-end side, using Java
+  * Test the software with the airport equipment according to the requirements
 
 
 Programming Skills
 ======
 * Java (Back-end Development)
 * C/C++ (Embedded System)
+* Python
 
 Project Experience
 ======
@@ -53,6 +55,7 @@ Project Experience
 Language Proficiency
 ======
 * Bahasa Indonesia (native)
+* Javanese (native)
 * English (IELTS: 7.0)
 
 Awards
