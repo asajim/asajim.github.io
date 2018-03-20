@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "i wish this is a mountain"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ade Setyawan Sajim"
 description              : &description "A mountain lover, stuck in front of computer"
@@ -53,12 +53,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter asajim
-facebook:
-  username               : ade.setyawan.sajim
-  app_id                 :
-  publisher              :
+# twitter:
+#   username               : &twitter asajim
+# facebook:
+#   username               : ade.setyawan.sajim
+#   app_id                 :
+#   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -96,14 +96,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/ade-setyawan-sajim-36290944/
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

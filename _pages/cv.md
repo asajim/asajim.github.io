@@ -17,13 +17,14 @@ Education
 
 Work experience
 ======
-* July - Sept 2012: Software Developer (Internship)
-  * Bukopin Bank
+* Software Developer (Internship) at [Bukopin Bank](http://www.bukopin.co.id) : July - September 2012
   * Developing Bukopin Bank’s core banking software.
 
-* 2013 - 2016: Software Developer
-  * Azeco Inc.
-  * Developing software (design, implementation and testing), focusing in air eld software. We built software for Acams AS, a Norwegian company specializing in integrated Airport
+* Software Developer at [ACAMS](http://www.acams.com) : September 2013 - July 2016
+  * Developing an integrated Airport Tower Solutions.
+  * Design the software according to client request and airfield rules
+  * Implement the software, mostly on back-end side, using Java Test the software with the airport equipment according to the requirements
+
 
 Programming Skills
 ======
@@ -53,3 +54,8 @@ Language Proficiency
 ======
 * Bahasa Indonesia (native)
 * English (IELTS: 7.0)
+
+Awards
+======
+* [Indonesia Endowment Fund for Education](https://www.lpdp.kemenkeu.go.id/)
+  * Full scholarship for pursuing Master Degree 2016-2018
